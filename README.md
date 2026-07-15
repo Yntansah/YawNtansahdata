@@ -8,11 +8,17 @@ I am a Data Analyst with a background that combines nearly a decade of professio
 This project is about the human resource analysis of about 40 employees with focus on employees' attrition, employees' demographics, related insights and recommendations.
 
 # SKILLS 
-- Data cleaning,
-- Data analysis,
+- Data cleaning
+- Data analysis
 - Data visualization
 
 # TECHNOLOGY USED
 - POSTGRESQL
 - TABLEAU
+
+# BUSINESS CHALLENGE
+The company is facing attrition at an alarming rate
+
+# BUSINESS OBJECTIVE
+To determine which department is having the highest attrition and why.
   
