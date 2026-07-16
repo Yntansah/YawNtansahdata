@@ -34,9 +34,13 @@ To determine which department is having the highest attrition and why.
 - Out of the 33 remaining remaining employees, there are 3 PhD holders, 18 masters holders and 12 bachelors
 - Total salaries of the active employees is $2,041,000
 
-# EMPLOYEES ATTRITION DASHBOARD
+# EMPLOYEES' ATTRITION DASHBOARD
 
 <img width="1200" height="700" alt="Screenshot 2026-07-16 at 9 36 05 AM" src="https://github.com/user-attachments/assets/eef73c63-999c-45b3-a4a1-f72f46acbd8d" />
+
+# EMPLOYEES' DEMOGRAPHIC AND SALARIES DASHBOARD
+<img width="1200" height="700" alt="Screenshot 2026-07-10 at 9 53 00 AM" src="https://github.com/user-attachments/assets/fe69892c-4a12-440f-b2b1-c3aaf4321fe6" />
+
 
 
   
