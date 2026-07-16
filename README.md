@@ -28,4 +28,9 @@ To determine which department is having the highest attrition and why.
 - Number of employees that has left the company 7
 - Attrition rate is 17.50%
 - Percentage of attrition per department; sales is 71.43%, HR is 14.29% and Technology is 14.29%
+- Employees that have left the company are all bachelors holders.
+- Average job satisfaction is 3.58
+- Marketing department has the highest average job satisfaction while sales has the lowest average job satisfaction
+- Out of the 33 remaining remaining employees, there are 3 PhD holders, 18 masters holders and 12 bachelors
+- Total salaries of the active employees is $2,041,000
   
